@@ -1,0 +1,25 @@
+#instaling apps
+yay
+
+#tapping
+xinput
+
+#volume
+pamixer
+
+#brightness
+xbacklight
+
+#wallpaper
+feh
+
+#chrome
+google-chrome
+
+#tapping
+xinput set-prop 10 288 1
+
+#fonts
+otf-san-francisco
+ttf-font-awesome-4
+
